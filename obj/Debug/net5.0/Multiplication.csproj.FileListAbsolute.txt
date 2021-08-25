@@ -1,0 +1,16 @@
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\bin\Debug\net5.0\Multiplication.exe
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\bin\Debug\net5.0\Multiplication.deps.json
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\bin\Debug\net5.0\Multiplication.runtimeconfig.json
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\bin\Debug\net5.0\Multiplication.runtimeconfig.dev.json
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\bin\Debug\net5.0\Multiplication.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\bin\Debug\net5.0\ref\Multiplication.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\bin\Debug\net5.0\Multiplication.pdb
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\obj\Debug\net5.0\Multiplication.csprojAssemblyReference.cache
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\obj\Debug\net5.0\Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\obj\Debug\net5.0\Multiplication.AssemblyInfoInputs.cache
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\obj\Debug\net5.0\Multiplication.AssemblyInfo.cs
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\obj\Debug\net5.0\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\obj\Debug\net5.0\Multiplication.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\obj\Debug\net5.0\ref\Multiplication.dll
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\obj\Debug\net5.0\Multiplication.pdb
+C:\Users\Gideon Markus\Desktop\.NET Core\Erbaver\Multiplication\obj\Debug\net5.0\Multiplication.genruntimeconfig.cache
